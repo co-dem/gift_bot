@@ -1,6 +1,6 @@
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = '6219951021:AAEsy-jlC98-nLHZCQSqtZwiwX2BIAHxZbU'
+TOKEN = '6027312689:AAGw3QhcjXdmmiqUrXg3Tq8YaI2JawxVtVU'
 
 check_btn = InlineKeyboardMarkup(
     inline_keyboard = [
